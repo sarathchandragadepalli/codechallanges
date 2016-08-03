@@ -1,0 +1,8 @@
+c:\users\biggu\documents\visual studio 2013\Projects\1staug2016\1staug2016\bin\Debug\1staug2016.exe.config
+c:\users\biggu\documents\visual studio 2013\Projects\1staug2016\1staug2016\bin\Debug\1staug2016.exe
+c:\users\biggu\documents\visual studio 2013\Projects\1staug2016\1staug2016\bin\Debug\1staug2016.pdb
+c:\users\biggu\documents\visual studio 2013\Projects\1staug2016\1staug2016\obj\Debug\1staug2016.exe
+c:\users\biggu\documents\visual studio 2013\Projects\1staug2016\1staug2016\obj\Debug\1staug2016.pdb
+C:\Users\biggu\codechallanges\1staug2016\bin\Debug\1staug2016.exe.config
+C:\Users\biggu\codechallanges\1staug2016\obj\Debug\1staug2016.exe
+C:\Users\biggu\codechallanges\1staug2016\obj\Debug\1staug2016.pdb
