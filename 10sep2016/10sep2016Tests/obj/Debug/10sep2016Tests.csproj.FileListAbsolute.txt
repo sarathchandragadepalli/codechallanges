@@ -6,3 +6,11 @@ C:\Users\sarathg\Documents\Visual Studio 2015\Projects\10sep2016\10sep2016Tests\
 C:\Users\sarathg\Documents\Visual Studio 2015\Projects\10sep2016\10sep2016Tests\obj\Debug\10sep2016Tests.csprojResolveAssemblyReference.cache
 C:\Users\sarathg\Documents\Visual Studio 2015\Projects\10sep2016\10sep2016Tests\obj\Debug\10sep2016Tests.dll
 C:\Users\sarathg\Documents\Visual Studio 2015\Projects\10sep2016\10sep2016Tests\obj\Debug\10sep2016Tests.pdb
+E:\codechallanges\10sep2016\10sep2016Tests\bin\Debug\10sep2016Tests.dll
+E:\codechallanges\10sep2016\10sep2016Tests\bin\Debug\10sep2016Tests.pdb
+E:\codechallanges\10sep2016\10sep2016Tests\bin\Debug\10sep2016.exe
+E:\codechallanges\10sep2016\10sep2016Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\codechallanges\10sep2016\10sep2016Tests\bin\Debug\10sep2016.pdb
+E:\codechallanges\10sep2016\10sep2016Tests\obj\Debug\10sep2016Tests.csprojResolveAssemblyReference.cache
+E:\codechallanges\10sep2016\10sep2016Tests\obj\Debug\10sep2016Tests.dll
+E:\codechallanges\10sep2016\10sep2016Tests\obj\Debug\10sep2016Tests.pdb
