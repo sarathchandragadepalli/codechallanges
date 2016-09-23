@@ -128,7 +128,7 @@ namespace _10sep2016
                 }
 
                 Console.WriteLine("please enter the elements format{xyz....}");
-                string inputstring = Console.ReadLine();
+                string inputstring = Console.ReadLine()?.Trim();
                 int countvar = 0, i;
                 int[,] pointsarray = new int[noofRows, noofColumns];
 
