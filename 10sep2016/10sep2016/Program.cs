@@ -30,7 +30,7 @@ namespace _10sep2016
             int count = 0;
             try
             {
-                if (pointsarray[q.X, q.Y] == 0)
+                if (pointsarray[p.X, p.Y] == 0 || pointsarray[q.X, q.Y] == 0)
                 {
                     Console.WriteLine("No : No path exists between the points");
                     return "No";
