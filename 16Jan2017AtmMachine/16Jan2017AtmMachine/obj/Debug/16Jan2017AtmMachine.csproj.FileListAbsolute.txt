@@ -1,0 +1,5 @@
+c:\users\sarathg\documents\visual studio 2015\Projects\16Jan2017AtmMachine\16Jan2017AtmMachine\bin\Debug\16Jan2017AtmMachine.exe.config
+C:\Users\sarathg\Documents\Visual Studio 2015\Projects\16Jan2017AtmMachine\16Jan2017AtmMachine\bin\Debug\16Jan2017AtmMachine.exe
+C:\Users\sarathg\Documents\Visual Studio 2015\Projects\16Jan2017AtmMachine\16Jan2017AtmMachine\bin\Debug\16Jan2017AtmMachine.pdb
+C:\Users\sarathg\Documents\Visual Studio 2015\Projects\16Jan2017AtmMachine\16Jan2017AtmMachine\obj\Debug\16Jan2017AtmMachine.exe
+C:\Users\sarathg\Documents\Visual Studio 2015\Projects\16Jan2017AtmMachine\16Jan2017AtmMachine\obj\Debug\16Jan2017AtmMachine.pdb
